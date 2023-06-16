@@ -1,9 +1,9 @@
 
-<!-- README.md is generated from README.Rmd. Please edit that file -->
-
 # regexcite
 
 <!-- badges: start -->
+
+[![R-CMD-check](https://github.com/CarolinaPB/regexcite/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/CarolinaPB/regexcite/actions/workflows/R-CMD-check.yaml)
 <!-- badges: end -->
 
 The goal of regexcite is to make splitting one string easier.  
